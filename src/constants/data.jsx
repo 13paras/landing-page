@@ -15,22 +15,21 @@ import desktopHero from "../assets/image-hero-desktop.png";
 import mobileHero from "../assets/image-hero-mobile.png";
 import logo from "../assets/logo.svg";
 
-
 export default {
-    clientAudiophile,
-    clientDatabiz,
-    clientMaker,
-    clientMeet,
-    favicon,
-    arrowDown,
-    arrowUp,
-    calender,
-    closeMenu,
-    menuIcon,
-    planningIcon,
-    remindersIcon,
-    todoIcon,
-    desktopHero,
-    mobileHero,
-    logo
-}
+  clientAudiophile,
+  clientDatabiz,
+  clientMaker,
+  clientMeet,
+  favicon,
+  arrowDown,
+  arrowUp,
+  calender,
+  closeMenu,
+  menuIcon,
+  planningIcon,
+  remindersIcon,
+  todoIcon,
+  desktopHero,
+  mobileHero,
+  logo,
+};

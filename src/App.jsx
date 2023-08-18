@@ -1,6 +1,6 @@
-import React from 'react'
-import Hero from './Components/Hero'
-import Navbar from './Components/Navbar'
+import React from "react";
+import Hero from "./Components/Hero";
+import Navbar from "./Components/Navbar";
 
 const App = () => {
   return (
@@ -8,7 +8,7 @@ const App = () => {
       <Navbar />
       <Hero />
     </div>
-  )
-}
+  );
+};
 
-export default App
+export default App;
